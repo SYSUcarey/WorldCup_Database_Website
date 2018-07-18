@@ -1,5 +1,7 @@
 # WorldCup Database Website 
 
+***
+
 1. 小组成员：
 - 陈彬彬16340015 
 
@@ -9,12 +11,16 @@
 
 - 陈帆16340017
 
+***
+
 2. 项目环境：
 
   - mysql-5.7.22
   - jdk, jre
   - nodejs相关环境
   - vue框架相关环境
+
+***
 
 3. 运行方式:
 
@@ -25,6 +31,8 @@
 - 在`./DataBase/project/server`目录下打开`powershell` ，输入命令`node app.js`，运行服务器。
 
 - 浏览器访问本地服务器http://localhost:8080，就可以进入项目主界面
+
+***
 
 4.文件架构：
 
